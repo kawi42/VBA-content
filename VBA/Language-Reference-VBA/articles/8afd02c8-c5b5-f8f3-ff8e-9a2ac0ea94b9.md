@@ -22,3 +22,4 @@ MyDate = Date    ' MyDate contains the current system date.
 
 ```
 
+Note: You may use the **Time** function to get or set the system time, or the **Now** function to derive the system's date and time.
